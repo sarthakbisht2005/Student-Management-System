@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Management system</string>
+    <string-array name="loginSelection" translatable="true">
+        <item>Select Branch</item>
+        <item>Civil</item>
+        <item>I.T.</item>
+        <item>Pharmacy</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="home">Home</string>
+    <string name="gallery">Gallery</string>
+    <string name="profile">Profile</string>
+    <string name="result">Result</string>
+    <string name="student">Student Details</string>
+    <string name="about_us">About Us</string>
+    <string name="logout">Logout</string>
+
+    <string name="error_while_logging_in">error while logging in</string>
+    <string name="fetch_user">Verify</string>
+    <string name="Name">Name</string>
+    <string name="Email">Email</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="registration_no">Registration No</string>
+    <string name="title_activity_notice_item">notice_item</string>
+</resources>
